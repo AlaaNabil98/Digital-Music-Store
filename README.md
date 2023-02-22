@@ -21,7 +21,7 @@ After both have been downloaded:
 * Start querying your data
 * Use Notepad, Notepad++ or Atom to save queries
 
-## Project
+## Project Components
 * [Quiz Queries](https://github.com/AlaaNabil98/Digital-Music-Store/blob/master/Quiz%20Queries.sql)
 * [Project Queries](https://github.com/AlaaNabil98/Digital-Music-Store/blob/master/Project%20Queries.sql)
 * [Presentation](https://github.com/AlaaNabil98/Digital-Music-Store/blob/master/Project%20Visualization.pdf)
